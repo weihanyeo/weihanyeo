@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yeoweihan123&label=Profile%20views&color=0e75b6&style=flat" alt="yeoweihan123" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://yeoweihan123.github.io/web-resume/](https://yeoweihan123.github.io/web-resume/)
+- 👨‍💻 Most of my projects are available at [https://yeoweihan123.github.io/web-resume/](https://yeoweihan123.github.io/web-resume/)
 
 - 📫 How to reach me **yeoweihan@u.nus.edu**
 
