@@ -61,7 +61,7 @@ AUTHOR: Dazzle UI
 URL: https://www.svgrepo.com/svg/533629/arrow-square-up
  -->
  
-<p align="left">
+<p align="right">
 <a href="#top">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YeoWeiHan123/YeoWeiHan123/master/icons/arrow-square-up-fac539.svg">
