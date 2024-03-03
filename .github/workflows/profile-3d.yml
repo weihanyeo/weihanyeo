@@ -1,8 +1,8 @@
 name: GitHub-Profile-3D-Contrib
 
 on:
-  schedule: # 03:00 JST == 18:00 UTC
-    - cron: "0 18 * * *"
+  schedule: # 03:00 CST == 21:00 UTC
+    - cron: "0 21 * * *"
   workflow_dispatch:
 
 jobs:
@@ -11,11 +11,10 @@ jobs:
     name: generate-github-profile-3d-contrib
     steps:
       - uses: actions/checkout@v3
-      - uses: yoshi389111/github-profile-3d-contrib@0.7.1
+      - uses: PrimeEagle/github-profile-3d-contrib@main
         env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          GITHUB_TOKEN: ${{ secrets.PROFILE_3D_CONTRIB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          MAX_REPOS: 300
       - name: Commit & Push
         run: |
           git config user.name github-actions
