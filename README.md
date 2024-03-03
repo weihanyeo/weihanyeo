@@ -64,6 +64,10 @@ AUTHOR: Dazzle UI
 URL: https://www.svgrepo.com/svg/533629/arrow-square-up
  -->
  
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yeoweihan123&label=Profile%20views&color=0e75b6&style=flat" alt="yeoweihan123" /> </p>
+
+<h1 align="center">Thanks for dropping by!! <3</h1>
+
 <p align="right">
 <a href="#top">
 <picture>
