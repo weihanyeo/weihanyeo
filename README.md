@@ -1,4 +1,5 @@
-### Github stats
+
+<h1 align="right">Github stats</h1>
 <div id="top"></div>
 <!-- https://github.com/yoshi389111/github-profile-3d-contrib -->
 <a href="https://github.com/yoshi389111/github-profile-3d-contrib">
@@ -64,8 +65,6 @@ AUTHOR: Dazzle UI
 URL: https://www.svgrepo.com/svg/533629/arrow-square-up
  -->
  
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yeoweihan123&label=Profile%20views&color=0e75b6&style=flat" alt="yeoweihan123" /> </p>
-
 <h1 align="center">Thanks for dropping by!! <3</h1>
 
 <p align="right">
