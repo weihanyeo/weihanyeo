@@ -1,3 +1,7 @@
+
+![](./profile-3d-contrib/profile-green-animate.svg)
+
+
 ### Hi there 👋
 
 <h1 align="center">I'm Yeo Wei Han</h1>
@@ -19,4 +23,3 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeoweihan123&show_icons=true&locale=en&layout=compact" alt="yeoweihan123" /></p>
 
-![](./profile-3d-contrib/profile-green-animate.svg)
