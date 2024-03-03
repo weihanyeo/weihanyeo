@@ -36,14 +36,14 @@
 <!-- https://github.com/jstrieb/github-stats -->
 <div align="center">
 
-<a href="https://github.com/jstrieb/github-stats">
+<a href="https://github.com/YeoWeiHan123/github-stats">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YeoWeiHan123/github-stats/master/generated/overview.svg#gh-dark-mode-only">
   <img alt="YeoWeiHan123's github-stats" src="https://raw.githubusercontent.com/YeoWeiHan123/github-stats/master/generated/overview.svg">
 </picture>
 </a>
 
-<a href="https://github.com/jstrieb/github-stats">
+<a href="https://github.com/YeoWeiHan123/github-stats">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YeoWeiHan123/github-stats/master/generated/languages.svg#gh-dark-mode-only">
   <img alt="YeoWeiHan123's github-stats" src="https://raw.githubusercontent.com/YeoWeiHan123/github-stats/master/generated/languages.svg">
