@@ -64,8 +64,10 @@ LICENSE: CC Attribution License
 AUTHOR: Dazzle UI
 URL: https://www.svgrepo.com/svg/533629/arrow-square-up
  -->
- 
-<h1 align="center">Thanks for dropping by!! <3</h1>
+<br>
+<br>
+<br>
+<h3 align="center">Thanks for dropping by!! <3 </h3>
 
 <p align="right">
 <a href="#top">
