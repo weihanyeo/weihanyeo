@@ -33,6 +33,9 @@
 </picture>
 </a>
 
+<p><img align="center" src="https://github-readme-stats.vercel.app/api?username=yeoweihan123&show_icons=true&locale=en&theme=dark" alt="yeoweihan123" /></p>
+
+
 </div>
 
 ### Hi there 👋
