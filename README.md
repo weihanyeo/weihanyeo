@@ -34,7 +34,6 @@
 </a>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeoweihan123&show_icons=true&locale=en&layout=compact&theme=dark" alt="yeoweihan123" /></p>
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeoweihan123&layout=compact&theme=dark" alt="Top Languages" /></p>
 
 
 </div>
