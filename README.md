@@ -35,8 +35,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeoweihan123&show_icons=true&locale=en&layout=compact&theme=dark" alt="yeoweihan123" /></p>
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=yeoweihan123)](https://github.com/anuraghazra/github-readme-stats)
-
 
 </div>
 
