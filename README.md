@@ -4,7 +4,7 @@
 <!-- https://github.com/yoshi389111/github-profile-3d-contrib -->
 <a href="https://github.com/yoshi389111/github-profile-3d-contrib">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YeoWeiHan123/YeoWeiHan123/master/profile-3d-contrib/profile-night-view.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YeoWeiHan123/YeoWeiHan123/master/profile-3d-contrib/profile-night-green.svg">
   <img alt="YeoWeiHan123's GitHub Profile 3D Contrib" src="https://raw.githubusercontent.com/YeoWeiHan123/YeoWeiHan123/master/profile-3d-contrib/profile-green.svg">
 </picture>
 </a>
