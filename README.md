@@ -55,6 +55,7 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
+
 [![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,css,figma,firebase,git,html,java,javascript,linux,mongodb,mysql,nextjs,nodejs,react,sass,tailwind,&perline=9)](https://skillicons.dev)
 
 <!-- Back to Top -->
