@@ -4,36 +4,36 @@
 <!-- https://github.com/yoshi389111/github-profile-3d-contrib -->
 <a href="https://github.com/yoshi389111/github-profile-3d-contrib">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YeoWeiHan123/YeoWeiHan123/master/profile-3d-contrib/profile-night-green.svg">
-  <img alt="YeoWeiHan123's GitHub Profile 3D Contrib" src="https://raw.githubusercontent.com/YeoWeiHan123/YeoWeiHan123/master/profile-3d-contrib/profile-green.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/weihanyeo/weihanyeo/master/profile-3d-contrib/profile-night-green.svg">
+  <img alt="YeoWeiHan123's GitHub Profile 3D Contrib" src="https://raw.githubusercontent.com/weihanyeo/weihanyeo/master/profile-3d-contrib/profile-green.svg">
 </picture>
 </a>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph/?username=YeoWeiHan123&bg_color=00000f&color=007bff&line=fac539&point=FFFFFF&hide_border=true">
-  <img alt="YeoWeiHan123's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=YeoWeiHan123&bg_color=ffffff&color=007bff&line=47a042&point=255322&hide_border=true">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph/?username=weihanyeo&bg_color=00000f&color=007bff&line=fac539&point=FFFFFF&hide_border=true">
+  <img alt="weihanyeo's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=weihanyeo&bg_color=ffffff&color=007bff&line=47a042&point=255322&hide_border=true">
 </picture>
 </a>
 
 <!-- https://github.com/jstrieb/github-stats -->
 <div align="center">
 
-<a href="https://github.com/YeoWeiHan123/github-stats">
+<a href="https://github.com/weihanyeo/github-stats">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YeoWeiHan123/github-stats/master/generated/overview.svg#gh-dark-mode-only">
-  <img alt="YeoWeiHan123's github-stats" src="https://raw.githubusercontent.com/YeoWeiHan123/github-stats/master/generated/overview.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/weihanyeo/github-stats/master/generated/overview.svg#gh-dark-mode-only">
+  <img alt="weihanyeo's github-stats" src="https://raw.githubusercontent.com/weihanyeo/github-stats/master/generated/overview.svg">
 </picture>
 </a>
 
-<a href="https://github.com/YeoWeiHan123/github-stats">
+<a href="https://github.com/weihanyeo/github-stats">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YeoWeiHan123/github-stats/master/generated/languages.svg#gh-dark-mode-only">
-  <img alt="YeoWeiHan123's github-stats" src="https://raw.githubusercontent.com/YeoWeiHan123/github-stats/master/generated/languages.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/weihanyeo/github-stats/master/generated/languages.svg#gh-dark-mode-only">
+  <img alt="weihanyeo's github-stats" src="https://raw.githubusercontent.com/weihanyeo/github-stats/master/generated/languages.svg">
 </picture>
 </a>
 
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=yeoweihan123&show_icons=true&locale=en&layout=compact&theme=dark" alt="yeoweihan123" /></p>
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=weihanyeo&show_icons=true&locale=en&layout=compact&theme=dark" alt="weihanyeo" /></p>
 
 
 </div>
@@ -43,9 +43,9 @@
 <h1 align="center">I'm Yeo Wei Han</h1>
 <h3 align="center">A passionate developer from Singapore</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=yeoweihan123&label=Profile%20views&color=0e75b6&style=flat" alt="yeoweihan123" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=weihanyeo&label=Profile%20views&color=0e75b6&style=flat" alt="weihanyeo" /> </p>
 
-- 👨‍💻 Most of my projects are available at [https://yeoweihan123.github.io/web-resume/](https://yeoweihan123.github.io/web-resume/)
+- 👨‍💻 Most of my projects are available at [https://weihanyeo.github.io/web-resume/](https://weihanyeo.github.io/web-resume/)
 
 - 📫 How to reach me **yeoweihan@u.nus.edu**
 
@@ -73,8 +73,8 @@ URL: https://www.svgrepo.com/svg/533629/arrow-square-up
 <p align="right">
 <a href="#top">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/YeoWeiHan123/YeoWeiHan123/master/icons/arrow-square-up-fac539.svg">
-  <img alt="back to top" width="30px" height="30px" src="https://raw.githubusercontent.com/YeoWeiHan123/YeoWeiHan123/master/icons/arrow-square-up-fac539.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/weihanyeo/weihanyeo/master/icons/arrow-square-up-fac539.svg">
+  <img alt="back to top" width="30px" height="30px" src="https://raw.githubusercontent.com/weihanyeo/weihanyeo/master/icons/arrow-square-up-fac539.svg">
 </picture>
 </a>
 </p>
