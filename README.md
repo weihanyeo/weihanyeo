@@ -5,7 +5,7 @@
 <a href="https://github.com/yoshi389111/github-profile-3d-contrib">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/weihanyeo/weihanyeo/master/profile-3d-contrib/profile-night-green.svg">
-  <img alt="YeoWeiHan123's GitHub Profile 3D Contrib" src="https://raw.githubusercontent.com/weihanyeo/weihanyeo/master/profile-3d-contrib/profile-green.svg">
+  <img alt="weihanyeo's GitHub Profile 3D Contrib" src="https://raw.githubusercontent.com/weihanyeo/weihanyeo/master/profile-3d-contrib/profile-green.svg">
 </picture>
 </a>
 
@@ -34,6 +34,7 @@
 </a>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=weihanyeo&show_icons=true&locale=en&layout=compact&theme=dark" alt="weihanyeo" /></p>
+
 
 
 </div>
