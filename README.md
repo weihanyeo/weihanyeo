@@ -1,3 +1,4 @@
+<main>
 <h1 align="right">Github stats</h1>
 
 <style>
@@ -165,3 +166,4 @@
 </picture>
 </a>
 </p>
+</main>
