@@ -1,24 +1,14 @@
-<<<<<<< HEAD
-<main>
-=======
-
->>>>>>> parent of 7dda9bd (fixed some styling)
 <h1 align="right">Github stats</h1>
 <div id="top"></div>
-<!-- https://github.com/yoshi389111/github-profile-3d-contrib -->
-<a href="https://github.com/yoshi389111/github-profile-3d-contrib">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/weihanyeo/weihanyeo/master/profile-3d-contrib/profile-night-green.svg">
   <img alt="weihanyeo's GitHub Profile 3D Contrib" src="https://raw.githubusercontent.com/weihanyeo/weihanyeo/master/profile-3d-contrib/profile-green.svg">
 </picture>
-</a>
 
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-activity-graph.vercel.app/graph/?username=weihanyeo&bg_color=00000f&color=007bff&line=fac539&point=FFFFFF&hide_border=true">
   <img alt="weihanyeo's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph/?username=weihanyeo&bg_color=ffffff&color=007bff&line=47a042&point=255322&hide_border=true">
 </picture>
-</a>
 
 <!-- https://github.com/jstrieb/github-stats -->
 <div align="center">
@@ -39,8 +29,6 @@
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=weihanyeo&show_icons=true&locale=en&layout=compact&theme=dark" alt="weihanyeo" /></p>
 
-
-
 </div>
 
 ### Hi there 👋
@@ -56,20 +44,13 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/yeo-wei-han" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yeo-wei-han" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/weihanyeo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yeo-wei-han" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=bash,c,cpp,css,figma,firebase,git,html,java,javascript,linux,mongodb,mysql,nextjs,nodejs,react,sass,tailwind,&perline=9)](https://skillicons.dev)
 
-<!-- Back to Top -->
-<!-- Arrow Square Up SVG Vector
-COLLECTION: Dazzle Line Icons
-LICENSE: CC Attribution License
-AUTHOR: Dazzle UI
-URL: https://www.svgrepo.com/svg/533629/arrow-square-up
- -->
 <br>
 <br>
 <br>
