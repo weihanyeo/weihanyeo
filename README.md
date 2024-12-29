@@ -96,7 +96,7 @@
 </div>
 
 </br>
-<div style="text-align: center;">
+<!-- <div style="text-align: center;">
   <h1>
     <span class="cycling-name">
       <b class="letter" style="animation-delay: 2.1s">H</b>
@@ -122,11 +122,11 @@
       <!-- because Github pages dont allow javascript to run in the background  --> 
     </span>
   </h1>
-</div>
+</div> -->
 
-<div class="container">
+<!-- <div class="container">
   <h2>
-    A 
+    A
     <span class="word-cycle">
       <span class="cycling-word">passionate developer</span>
       <span class="cycling-word">tech enthusiast</span>
@@ -136,7 +136,96 @@
     </span>
     from Singapore
   </h2>
-</div>
+</div> -->
+<svg width="800" height="120" viewBox="0 0 800 120" xmlns="http://www.w3.org/2000/svg">
+  <style>
+    @keyframes fadeIn {
+      from { opacity: 0; }
+      to { opacity: 1; }
+    }
+    
+    @keyframes cycleWords {
+      0% {
+        transform: translateY(30px);
+        opacity: 0;
+      }
+      5%, 15% {
+        transform: translateY(0);
+        opacity: 1;
+      }
+      20%, 100% {
+        transform: translateY(-30px);
+        opacity: 0;
+      }
+    }
+    
+    .title {
+      font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Helvetica, Arial, sans-serif;
+      font-size: 24px;
+    }
+    
+    .letter {
+      opacity: 0;
+      animation: fadeIn 0.5s forwards;
+    }
+    
+    .word-cycle {
+      display: inline-block;
+      position: relative;
+      min-width: 250px;
+      height: 30px;
+      overflow: hidden;
+    }
+    
+    .cycling-word {
+      position: absolute;
+      left: 0;
+      width: 100%;
+      opacity: 0;
+      animation: cycleWords 20s linear infinite;
+    }
+    
+    .cycling-word:nth-child(1) { animation-delay: 0s; }
+    .cycling-word:nth-child(2) { animation-delay: 4s; }
+    .cycling-word:nth-child(3) { animation-delay: 8s; }
+    .cycling-word:nth-child(4) { animation-delay: 12s; }
+    .cycling-word:nth-child(5) { animation-delay: 16s; }
+  </style>
+  
+  <foreignObject x="0" y="0" width="800" height="120">
+    <div xmlns="http://www.w3.org/1999/xhtml">
+      <div style="text-align: center;">
+        <h1 class="title">
+          Hi, I'm 
+          <span>
+            <span class="letter" style="animation-delay: 0.1s">Y</span>
+            <span class="letter" style="animation-delay: 0.2s">e</span>
+            <span class="letter" style="animation-delay: 0.3s">o</span>
+            <span class="letter" style="animation-delay: 0.4s">&nbsp;</span>
+            <span class="letter" style="animation-delay: 0.5s">W</span>
+            <span class="letter" style="animation-delay: 0.6s">e</span>
+            <span class="letter" style="animation-delay: 0.7s">i</span>
+            <span class="letter" style="animation-delay: 0.8s">&nbsp;</span>
+            <span class="letter" style="animation-delay: 0.9s">H</span>
+            <span class="letter" style="animation-delay: 1.0s">a</span>
+            <span class="letter" style="animation-delay: 1.1s">n</span>
+          </span>
+        </h1>
+        <h2 class="title">
+          A 
+          <span class="word-cycle">
+            <span class="cycling-word">passionate developer</span>
+            <span class="cycling-word">tech enthusiast</span>
+            <span class="cycling-word">animal lover</span>
+            <span class="cycling-word">foodie</span>
+            <span class="cycling-word">coffee addict</span>
+          </span>
+          from Singapore
+        </h2>
+      </div>
+    </div>
+  </foreignObject>
+</svg>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=weihanyeo&label=Profile%20views&color=0e75b6&style=flat" alt="weihanyeo" /> </p>
 
