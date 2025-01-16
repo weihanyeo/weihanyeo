@@ -33,7 +33,7 @@
 
 ### Hi there 👋
 
-<h1 align="center">I'm Yeo Wei Han</h1>
+<h1 align="center">(☞ﾟヮﾟ)☞  I'm Yeo Wei Han  ☜(ﾟヮﾟ☜)</h1>
 <h3 align="center">A passionate developer from Singapore</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=weihanyeo&label=Profile%20views&color=0e75b6&style=flat" alt="weihanyeo" /> </p>
